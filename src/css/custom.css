@@ -88,7 +88,9 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .footer__links {
-  margin-bottom: 64px;
+  @media (min-width: 997px) {
+    margin-bottom: 64px;
+  }
 }
 
 .footer__title {
