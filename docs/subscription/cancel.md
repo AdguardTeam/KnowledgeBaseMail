@@ -18,7 +18,7 @@ To cancel a subscription purchased in-app via an app store, follow the cancellat
 
 ### Android
 
-1. Go to [Subscriptions on Google Play](https://play.google.com/store/account/subscriptions).
+1. Go to [*Subscriptions* on Google Play](https://play.google.com/store/account/subscriptions).
 1. Select the subscription you want to cancel.
 1. Tap *Cancel subscription* and follow the instructions.
 
