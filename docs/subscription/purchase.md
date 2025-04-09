@@ -18,7 +18,7 @@ You can use your subscription on an unlimited number of devices.
 
 ## When is the subscription activated?
 
-The subscription is activated immediately after purchase. However, if you don’t see any changes after purchasing the subscription, go to *Settings → Account* and click *Check license status*.
+The subscription is activated immediately after purchase. However, if you don’t see any changes after purchasing the subscription, go to *Settings → Account* and click *Refresh license status*.
 
 ## Changing the subscription plan
 
