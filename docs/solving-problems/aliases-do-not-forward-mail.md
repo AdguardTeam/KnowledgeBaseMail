@@ -3,7 +3,7 @@ title: Aliases don’t forward emails
 sidebar_position: 2
 ---
 
-Here is how you can check if an alias doesn’t forward email:
+Here is how you can check if an alias doesn’t forward emails:
 
 1. Go to the *Statistics* section and note the number of forwarded emails.
 
