@@ -15,7 +15,7 @@ Domain is the part of an alias address that comes after the @ symbol.
 
 - Consider upgrading to a full version for more domains — the full version offers **3 alias domains**.
 
-- The problem also might be in **subaddressing** — a special tag that is used for filtering emails in the mailbox. An email with subaddressing looks like this: <alias+tag@adguardmail.com>, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
+- The problem also might be in **subaddressing** — a special tag used to filter emails in the mailbox. An email with subaddressing looks like this: <alias+tag@adguardmail.com>, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
 
 If the problem persists, please contact our support team via *Report a bug* or at <support@adguard-mail.com>.
 
