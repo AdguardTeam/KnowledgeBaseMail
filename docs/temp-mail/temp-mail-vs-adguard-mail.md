@@ -13,13 +13,13 @@ Both services are suitable for one-time tasks like activating a free trial or ge
 
 | **Feature** | **AdGuard Temp Mail** | **Temp Mail in AdGuard Mail** |
 |-----------------|---------------------------------|------------------------------------------|
-| **Lifetime**  | 7 days or until the page is closed  | No limit |
+| **Lifetime**  | 7 days after closing the page | No limit |
 | **Availability**  | Only on the webpage you open it on | Web version, mobile and desktop  |
 | **Registration**  |  Not required | Account required |
 
 ## Lifetime of addresses
 
-In AdGuard Temp Mail, the email address is deleted after 7 days or when you close the website. With AdGuard Mail, the temporary address lasts as long as you want.
+The disposable email address in AdGuard Temp Mail expires 7 days after the website is closed. With AdGuard Mail, the temporary address lasts as long as you want.
 
 ## Platform availability
 
