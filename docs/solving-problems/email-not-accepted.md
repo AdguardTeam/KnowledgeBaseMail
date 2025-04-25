@@ -21,4 +21,4 @@ If the problem persists, please contact our support team via *Report a bug* or a
 
 ## If a temporary address is not accepted
 
-Let our support team via *Report a bug* or at <support@adguard-mail.com>. We will look into the issue and update the domain if necessary.
+Let our support team know via *Report a bug* or at <support@adguard-mail.com>. We will look into the issue and update the domain if necessary.
