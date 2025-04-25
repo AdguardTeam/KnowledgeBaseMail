@@ -31,4 +31,4 @@ With AdGuard Mail, you can use your temporary email in the web version, desktop 
 
 AdGuard Temp Mail doesn’t require registration. Just visit the website, pass the CAPTCHA, and a disposable email address will be generated.
 
-In AdGuard Mail, an account is required. Since it’s part of the AdGuard product suite, you can log in using your [AdGuard account](https://auth.adguardaccount.com/login.html).
+AdGuard Mail requires an account. Since it’s part of the AdGuard product suite, you can log in using your [AdGuard account](https://auth.adguardaccount.com/login.html).
