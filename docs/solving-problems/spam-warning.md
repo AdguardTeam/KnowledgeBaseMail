@@ -3,7 +3,7 @@ title: I received a spam warning
 sidebar_position: 3
 ---
 
-This can happen for two reasons: you’ve marked a forwarded email as spam or someone marked your reply as spam.
+This can happen for two reasons: you’ve marked a forwarded email as spam, or someone has marked your reply as spam.
 
 We don’t allow spam reports in our service and warn users when that happens. General advice on how to avoid these warnings: **do not mark emails received through your aliases as spam** and **be mindful of what you write in replies**.
 
