@@ -17,10 +17,11 @@ To disable an alias:
 
 1. Go to *Aliases*, find the needed alias, click its settings ⚙️ icon, then open the three-dot menu in the upper right corner.
 
-![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
+    ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
 
-2. Click *Disable* in the menu.
-![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/disable_alias.png)
+1. Click *Disable* in the menu.
+
+    ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/disable_alias.png)
 
 ## Delete an alias
 
@@ -30,11 +31,12 @@ To delete an alias:
 
 1. Go to *Aliases*, find the needed alias, click its settings icon ⚙️, then open the three-dot menu in the upper right corner:
 
-![Alias three-dot menu *border](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
+    ![Alias three-dot menu *border](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
 
-2. Click *Delete*.
+1. Click *Delete*.
 
 ## Use ‘Block this sender’ option
+
 For specific unwanted senders, you don’t have to disable or delete your entire alias. Instead, use the *Block this sender* option. This feature lets you block individual email addresses, ensuring that emails from that sender won’t reach your real inbox.
 
 To block a sender, click *Block this sender* in the email header:
