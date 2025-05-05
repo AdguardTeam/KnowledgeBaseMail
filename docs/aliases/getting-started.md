@@ -23,21 +23,9 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
     ![Shuffle an alias](https://cdn.adtidy.org/content/kb/mail/alias-shuffle.png)
 
-    :::note
-
-    In the full version of AdGuard Mail, you can use *premium alias domains*, which allows you to choose different domain options when creating an alias. This minimizes the cases of getting rejected by online platforms.
-
-    :::
-
 1. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
 
 1. Choose a recipient that should be linked to this alias (only in full version).
-
-    :::note
-
-    Ability to have multiple recipients is a feature of the AdGuard Mail’s full version.
-
-    :::
 
 1. Enter a tag to use [subaddressing](#subaddressing) (optional).
 
