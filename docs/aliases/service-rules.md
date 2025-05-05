@@ -1,5 +1,5 @@
 ---
-title: Service rules: how to avoid getting blocked or restricted
+title: Service rules - how to avoid getting blocked or restricted
 sidebar_position: 3
 ---
 
