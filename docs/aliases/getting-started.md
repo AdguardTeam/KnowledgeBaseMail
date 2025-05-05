@@ -25,7 +25,7 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
     :::note
 
-    In the full version of AdGuard Mail, you can use *premium alias domains*, which allows you to choose different domain options when creating an alias. This minimizes the cases of getting rejected by online platforms. You can [read more about the features of the full version](/subscription/free_vs_full.md).
+    In the full version of AdGuard Mail, you can use *premium alias domains*, which allows you to choose different domain options when creating an alias. This minimizes the cases of getting rejected by online platforms.
 
     :::
 
@@ -35,7 +35,7 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
     :::note
 
-    Ability to have multiple recipients is a feature of the AdGuard Mail’s full version. [Read more about the features of the full version](/subscription/free_vs_full.md)
+    Ability to have multiple recipients is a feature of the AdGuard Mail’s full version.
 
     :::
 
