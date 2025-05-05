@@ -10,7 +10,7 @@ AdGuard Mail is a privacy-focused email management service developed by AdGuard,
 
 The service is designed to help users protect their personal email addresses by offering features such as email aliases ([*Aliases*](#aliases)) and temporary email addresses ([*Temp Mail*](#temp-mail)), shielding their regular inboxes from spam, phishing attempts, and unwanted tracking.
 ​
-In addition to these core functionalities, AdGuard Mail provides users with the ability to manage multiple recipients, allowing for flexible email forwarding to various personal or work email addresses. The service also includes a statistics section that offers insights into email activity, which helps users monitor and control their email interactions. 
+In addition to these core functionalities, AdGuard Mail provides users with the ability to manage multiple recipients, allowing for flexible email forwarding to various personal or work email addresses. The service also includes a statistics section that offers insights into email activity, which helps users monitor and control their email interactions.
 
 All of these features are integrated into a user-friendly interface, AdGuard Mail aims to deliver a comprehensive solution for maintaining email privacy and organization across different platforms.​
 
@@ -44,11 +44,11 @@ An **email alias** is a forwarding address that allows users to receive emails w
 
 ## Benefits of using aliases
 
-* **Enhanced privacy:** By using an alias, your real email address remains concealed from the sender, reducing exposure to [tracking](https://adguard.com/blog/id-bridging-tracking-privacy.html), spam and phishing attacks.​
+- **Enhanced privacy:** By using an alias, your real email address remains concealed from the sender, reducing exposure to [tracking](https://adguard.com/blog/id-bridging-tracking-privacy.html), spam and phishing attacks.​
 
-* **Control over incoming emails:** If an alias begins to receive unwanted emails, it can be easily disabled, stopping further messages from reaching your main inbox.​
+- **Control over incoming emails:** If an alias begins to receive unwanted emails, it can be easily disabled, stopping further messages from reaching your main inbox.​
 
-* **Organized email management:** Aliases can be created for specific purposes (e.g., shopping, newsletters, use of tools and services, work), which makes organizing and filtering incoming emails easier.​
+- **Organized email management:** Aliases can be created for specific purposes (e.g., shopping, newsletters, use of tools and services, work), which makes organizing and filtering incoming emails easier.​
 
 ## How aliases in AdGuard Mail work
 
@@ -56,7 +56,7 @@ An **email alias** is a forwarding address that allows users to receive emails w
 1. Go to *Aliases* and click *Create*.​
 1. Assign a name and to the alias for easy identification.
 1. Specify the recipient email address where forwarded emails should be sent​.
-1. Click *Create* to save the alias. 
+1. Click *Create* to save the alias.
 
 Done! Now you can use the created alias when signing up for services or sharing your email address.
 
@@ -70,11 +70,11 @@ Temp Mail is a feature that generates temporary email addresses designed for sho
 
 ### Benefits of AdGuard Mail’s Temp Mail feature
 
-* Instant use: Generate a temporary email address with one click and receive emails — all inside your AdGuard Mail.​
+- Instant use: Generate a temporary email address with one click and receive emails — all inside your AdGuard Mail.​
 
-* Privacy protection: Temporary addresses are perfect for one-time registrations, accessing free trials, receiving verification emails, participating in campaigns and getting promotional coupons without the need to use your regular email address.
+- Privacy protection: Temporary addresses are perfect for one-time registrations, accessing free trials, receiving verification emails, participating in campaigns and getting promotional coupons without the need to use your regular email address.
 
-* Universal access: Your temporary address’s inbox is stored in your account — you can access it on any device just by logging in to AdGuard Mail.​
+- Universal access: Your temporary address’s inbox is stored in your account — you can access it on any device just by logging in to AdGuard Mail.​
 
 ### How Temp Mail works
 

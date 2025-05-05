@@ -17,7 +17,7 @@ While aliases offer the ability to create unique email addresses quickly, **crea
 
 ## Don’t mark emails forwarded by aliases as spam
 
-When you mark an email forwarded through an AdGuard Mail alias as spam in your email client, it often reports the forwarding server itself (AdGuard Mail) as the spam source. This can damage the reputation of AdGuard Mail’s servers and jeopardize service quality for all users. 
+When you mark an email forwarded through an AdGuard Mail alias as spam in your email client, it often reports the forwarding server itself (AdGuard Mail) as the spam source. This can damage the reputation of AdGuard Mail’s servers and jeopardize service quality for all users.
 
 Therefore, if you encounter spam and want to block a sender, please use *Block this sender* option in the email header.
 

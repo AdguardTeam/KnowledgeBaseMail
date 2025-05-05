@@ -19,7 +19,7 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 ![Add an alias](https://cdn.adtidy.org/content/kb/mail/aliases-create.png)
 
-4.  Click the dice icon if you want to regenerate the alias.
+1. Click the dice icon if you want to regenerate the alias.
 
 ![Shuffle an alias](https://cdn.adtidy.org/content/kb/mail/alias-shuffle.png)
 
@@ -29,21 +29,21 @@ In the full version of AdGuard Mail, you can use *premium alias domains*, which 
 
 :::
 
-5. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
+1. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
 
-6. Choose a recipient that should be linked to this alias (only in full version).
+1. Choose a recipient that should be linked to this alias (only in full version).
 
 :::note
 
-Ability to have multiple recipients is a feature of the AdGuard Mail’s full version. [Read more about the features of the full version](/subscription/free_vs_full.md)   
+Ability to have multiple recipients is a feature of the AdGuard Mail’s full version. [Read more about the features of the full version](/subscription/free_vs_full.md)
 
 :::
 
-7. Enter a tag to use [subaddressing](#subaddressing) (optional).
+1. Enter a tag to use [subaddressing](#subaddressing) (optional).
 
-8. Click *Create*.
+1. Click *Create*.
 
-9. Done! Use the alias as a unique email address to share or sign up on online platforms.
+1. Done! Use the alias as a unique email address to share or sign up on online platforms.
 
 This new alias will act as a will protect your personal data by forwarding messages to your selected inbox without exposing your real email address.
 
