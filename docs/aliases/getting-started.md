@@ -25,7 +25,7 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 1. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
 
-1. Choose a recipient that should be linked to this alias (only in full version).
+1. Choose a recipient that should be linked to this alias.
 
 1. Enter a tag to use [subaddressing](#subaddressing) (optional).
 
@@ -47,4 +47,4 @@ Here’s how it works: instead of creating `alias@adguardmail.com` for online sh
 
 ## Multiple aliases
 
-You can use multiple aliases at once — 10 in the free version and 1,000 in the full version. This is useful when, for example, you need a special alias for newsletters, for a short-term project, for shopping, and so on.
+You can use multiple aliases (currently 10) at once. This is useful when, for example, you need a special alias for newsletters, for a short-term project, for shopping, and so on.

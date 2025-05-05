@@ -101,4 +101,4 @@ Here’s a comparison of the two features:
 | **Control**  |  Can be disabled or deleted if compromised | Can be instantly deleted permanently along with all inbox data |
 | **Use cases**  |  Subscriptions, newsletters, online shopping, professional communications | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons |
 | **Attachment support** | Supports forwarding emails with attachments to your personal inbox | Does not support attachments; attachments are removed before email is delivered to Temp Mail inbox |
-| **Number of addresses**  |  10 in free version, 1,000 in full version | 1 at a time (can be regenerated unlimited amount of times) |
+| **Number of addresses**  |  10 at a time | 1 at a time (can be regenerated unlimited amount of times) |
