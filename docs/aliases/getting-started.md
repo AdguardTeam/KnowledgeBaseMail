@@ -12,32 +12,32 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 ## How to create an alias in AdGuard Mail
 
 1. Open your AdGuard Mail.
-2. Click *Aliases* in the side menu.
-3. Click *Create* or *+*.
+1. Click *Aliases* in the side menu.
+1. Click *Create* or *+*.
 
-![Create an alias](https://cdn.adtidy.org/content/kb/mail/first-alias-create.png)
+    ![Create an alias](https://cdn.adtidy.org/content/kb/mail/first-alias-create.png)
 
-![Add an alias](https://cdn.adtidy.org/content/kb/mail/aliases-create.png)
+    ![Add an alias](https://cdn.adtidy.org/content/kb/mail/aliases-create.png)
 
 1. Click the dice icon if you want to regenerate the alias.
 
-![Shuffle an alias](https://cdn.adtidy.org/content/kb/mail/alias-shuffle.png)
+    ![Shuffle an alias](https://cdn.adtidy.org/content/kb/mail/alias-shuffle.png)
 
-:::note
+    :::note
 
-In the full version of AdGuard Mail, you can use *premium alias domains*, which allows you to choose different domain options when creating an alias. This minimizes the cases of getting rejected by online platforms. You can [read more about the features of the full version](/subscription/free_vs_full.md).
+    In the full version of AdGuard Mail, you can use *premium alias domains*, which allows you to choose different domain options when creating an alias. This minimizes the cases of getting rejected by online platforms. You can [read more about the features of the full version](/subscription/free_vs_full.md).
 
-:::
+    :::
 
 1. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
 
 1. Choose a recipient that should be linked to this alias (only in full version).
 
-:::note
+    :::note
 
-Ability to have multiple recipients is a feature of the AdGuard Mail’s full version. [Read more about the features of the full version](/subscription/free_vs_full.md)
+    Ability to have multiple recipients is a feature of the AdGuard Mail’s full version. [Read more about the features of the full version](/subscription/free_vs_full.md)
 
-:::
+    :::
 
 1. Enter a tag to use [subaddressing](#subaddressing) (optional).
 
