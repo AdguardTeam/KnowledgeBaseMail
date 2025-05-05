@@ -42,7 +42,7 @@ Install the app from [Google Play Store](https://play.google.com/store/apps/deta
 
 An **email alias** is a forwarding address that allows users to receive emails without disclosing their primary email address. Emails sent to an alias are automatically forwarded to the user’s main inbox, providing a layer of privacy and organization.​ Aliases feature in AdGuard Mail lets you create multiple email aliases for different platforms and purposes.
 
-## Benefits of using aliases
+### Benefits of using aliases
 
 - **Enhanced privacy:** By using an alias, your real email address remains concealed from the sender, reducing exposure to [tracking](https://adguard.com/blog/id-bridging-tracking-privacy.html), spam and phishing attacks.​
 
@@ -50,7 +50,7 @@ An **email alias** is a forwarding address that allows users to receive emails w
 
 - **Organized email management:** Aliases can be created for specific purposes (e.g., shopping, newsletters, use of tools and services, work), which makes organizing and filtering incoming emails easier.​
 
-## How aliases in AdGuard Mail work
+### How aliases in AdGuard Mail work
 
 1. Open the AdGuard Mail app or the web version.
 1. Go to *Aliases* and click *Create*.​
