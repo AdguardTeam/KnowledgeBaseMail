@@ -1,14 +1,14 @@
 ---
-title: AdGuard Mail Overview
+title: AdGuard メールの総合概要
 sidebar_position: 1
 slug: /
 ---
 
-## What is AdGuard Mail?
+## 「AdGuard メール」とは？
 
 AdGuard Mail is a privacy-focused email management service developed by AdGuard, a software company. [Learn more about AdGuard](https://adguard.com/contacts.html)
 
-The service is designed to help users protect their personal email addresses by offering features such as email aliases ([*Aliases*](#aliases)) and temporary email addresses ([*Temp Mail*](#temp-mail)), shielding their regular inboxes from spam, phishing attempts, and unwanted tracking.
+The service is designed to help users protect their personal email addresses by offering features such as email aliases ([_Aliases_](#aliases)) and temporary email addresses ([_Temp Mail_](#temp-mail)), shielding their regular inboxes from spam, phishing attempts, and unwanted tracking.
 ​
 In addition to these core functionalities, AdGuard Mail provides users with the ability to manage multiple recipients, allowing for flexible email forwarding to various personal or work email addresses. The service also includes a statistics section that offers insights into email activity, which helps users monitor and control their email interactions.
 
@@ -53,10 +53,10 @@ An **email alias** is a forwarding address that allows users to receive emails w
 ### How aliases in AdGuard Mail work
 
 1. Open the AdGuard Mail app or the web version.
-1. Go to *Aliases* and click *Create*.​
-1. Assign a name and to the alias for easy identification.
-1. Specify the recipient email address where forwarded emails should be sent​.
-1. Click *Create* to save the alias.
+2. Go to _Aliases_ and click _Create_.​
+3. Assign a name and to the alias for easy identification.
+4. Specify the recipient email address where forwarded emails should be sent​.
+5. Click _Create_ to save the alias.
 
 Done! Now you can use the created alias when signing up for services or sharing your email address.
 
@@ -94,11 +94,11 @@ Using both features for different purposes lets you make the best of this functi
 
 Here’s a comparison of the two features:
 
-| **Feature** | **Aliases** | **Temp Mail** |
-|-----------------|---------------------------------|------------------------------------------|
-| **Purpose**  | Long-term engagements requiring ongoing email communication  | One-time use or short-term interactions |
-| **Privacy level**  | High – conceals your primary email address; forwards emails to primary email’s inbox | Very high – a unique email address that has a dedicated inbox inside AdGuard Mail so emails don’t appear in your primary inbox |
-| **Control**  |  Can be disabled or deleted if compromised | Can be instantly deleted permanently along with all inbox data |
-| **Use cases**  |  Subscriptions, newsletters, online shopping, professional communications | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons |
-| **Attachment support** | Supports forwarding emails with attachments to your personal inbox | Does not support attachments; attachments are removed before email is delivered to Temp Mail inbox |
-| **Number of addresses**  |  10 at a time | 1 at a time (can be regenerated unlimited amount of times) |
+| **Feature**             | **Aliases**                                                                          | **Temp Mail**                                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Purpose**             | Long-term engagements requiring ongoing email communication                          | One-time use or short-term interactions                                                                                        |
+| **Privacy level**       | High – conceals your primary email address; forwards emails to primary email’s inbox | Very high – a unique email address that has a dedicated inbox inside AdGuard Mail so emails don’t appear in your primary inbox |
+| **Control**             | Can be disabled or deleted if compromised                                            | Can be instantly deleted permanently along with all inbox data                                                                 |
+| **Use cases**           | Subscriptions, newsletters, online shopping, professional communications             | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons                         |
+| **Attachment support**  | Supports forwarding emails with attachments to your personal inbox                   | Does not support attachments; attachments are removed before email is delivered to Temp Mail inbox                             |
+| **Number of addresses** | 10 at a time                                                                         | 1 at a time (can be regenerated unlimited amount of times)                                                  |
