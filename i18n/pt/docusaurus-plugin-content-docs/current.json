@@ -6,5 +6,17 @@
   "sidebar.tutorialSidebar.category.Miscellaneous": {
     "message": "Miscellaneous",
     "description": "The label for category Miscellaneous in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Aliases": {
+    "message": "Aliases",
+    "description": "The label for category Aliases in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Temp Mail": {
+    "message": "Temp Mail",
+    "description": "The label for category Temp Mail in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Solving problems": {
+    "message": "Solving problems",
+    "description": "The label for category Solving problems in sidebar tutorialSidebar"
   }
 }
