@@ -13,7 +13,7 @@ Domain is the part of an alias address that comes after the @ symbol.
 
 ## If an alias isn’t accepted
 
-- Consider upgrading to a [full version](https://adguard-mail.com/en/license.html) for more domains — the full version offers **3 alias domains**.
+- Consider upgrading to a [full version](https://adguard-mail.com/license.html) for more domains — the full version offers **3 alias domains**.
 
 - The problem also might be in **subaddressing** — a special tag used to filter emails in the mailbox. An email with subaddressing looks like this: <alias+tag@adguardmail.com>, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
 
