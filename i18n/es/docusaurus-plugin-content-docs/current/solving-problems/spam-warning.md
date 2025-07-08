@@ -27,11 +27,11 @@ If your correspondent marks emails from your aliases as spam 3 times, you won’
 
 If you think you’re getting spam, use the _Block this sender_ option in the email header.
 
-![Email header \*border](https://cdn.adtidy.org/content/kb/mail/email_header.png)
+![Email header \*border](https://cdn.adtidy.org/content/kb/mail/new/block_sender.png)
 
 Alternatively, you can disable the alias. Emails from this alias won’t be forwarded.
 
-![Disable an alias \*border](https://cdn.adtidy.org/content/kb/mail/disable_alias.png)
+![Disable an alias \*border](https://cdn.adtidy.org/content/kb/mail/new/edit_alias.png)
 
 :::important
 
