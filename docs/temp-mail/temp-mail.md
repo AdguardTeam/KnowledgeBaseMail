@@ -11,7 +11,7 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 To create a temporary email address, go to the *Temp Mail* section in the side menu and click *Create*. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
 
-![Create an address *border](https://cdn.adtidy.org/content/kb/mail/create_tempmail.png)
+![Create an address *mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
 
 ## Changing address
 
@@ -25,23 +25,23 @@ AdGuard Mail allows using only one temporary email address at a time. Creating a
 
 **Email size:** Temp Mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp Mail, we’ll send a notification to the email associated with your account.
 
-![Notification *border](https://cdn.adtidy.org/content/kb/mail/email_too_big.png)
+![Notification *border](https://cdn.adtidy.org/content/kb/mail/new/large_email.png)
 
 **Inbox capacity:** Your temporary inbox can hold up to 100 MB — it takes about 1,000 emails to reach this limit. Once this limit is reached, you won’t be able to receive new emails. We’ll notify you as you approach this limit so you can take action — either delete emails you don’t need or just create a new temporary address.
 
-![Inbox limit *border](https://cdn.adtidy.org/content/kb/mail/too_many_emails.png)
+![Inbox limit *border](https://cdn.adtidy.org/content/kb/mail/new/storage_left.png)
 
 ## Replying and forwarding
 
 Temp Mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp Mail, you can download them in EML format and send them using a regular email client.
 
-![Download EML *border](https://cdn.adtidy.org/content/kb/mail/download.png)
+![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
 ## Attachments
 
 Temp Mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
 
-![Undelivered attachments *border](https://cdn.adtidy.org/content/kb/mail/undelivered_attachments.png)
+![Undelivered attachments *border](https://cdn.adtidy.org/content/kb/mail/new/attachments_undelivered.png)
 
 :::important
 
