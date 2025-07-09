@@ -33,7 +33,7 @@ AdGuard Mail allows using only one temporary email address at a time. Creating a
 
 ## Replying and forwarding
 
-Temp mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp Mail, you can download them in EML format and send them using a regular email client.
+Temp mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp mail, you can download them in EML format and send them using a regular email client.
 
 ![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
