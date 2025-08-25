@@ -17,7 +17,7 @@ You can choose a domain for your temporary email address when you create a n
 
 The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/en/license.html).
 
-More domain options mean a lower risk of rejection by services. If one of your Temp Mail addresses is not accepted, try using a different one with a different domain, and report the issue to us at <support@adguard-mail.com>.
+More domain options mean a lower risk of rejection by services. If one of your Temp Mail addresses is not accepted, try using a different one with a different domain, and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
 ## Changing address
 
