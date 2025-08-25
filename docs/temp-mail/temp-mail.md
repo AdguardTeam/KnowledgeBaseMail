@@ -13,13 +13,23 @@ To create a temporary email address, go to the *Temp Mail* section in the side m
 
 ![Create an address *mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
 
+You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
+
+The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/en/license.html).
+
+More domain options mean a lower risk of rejection by services. If one of your Temp Mail addresses is not accepted, try using a different one with a different domain, and report the issue to us at <support@adguard-mail.com>.
+
 ## Changing address
 
 You can change your address by clicking the *dice* icon. The old one will be deleted along with its inbox. Note that you won’t be able to recover it.
 
 ## Number of inboxes
 
-AdGuard Mail allows using only one temporary email address at a time. Creating a new one will replace the existing address.
+In the free version, you can only have 1 inbox.
+
+The full version allows you to create up to 5 inboxes. Click the arrow next to your current inbox and select *Create new inbox*. From that menu, you can also switch between inboxes.
+
+To change the inbox address, click the menu in the upper right corner and select *Get new address*.
 
 ## Inbox and email size
 
@@ -33,7 +43,7 @@ AdGuard Mail allows using only one temporary email address at a time. Creating a
 
 ## Replying and forwarding
 
-Temp Mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp Mail, you can download them in EML format and send them using a regular email client.
+Temp Mail is designed for receiving emails. You can’t reply directly, and temporary addresses don’t forward messages by default. However, you can manually forward received emails to one of your confirmed recipients. Alternatively, you can download them in EML format and send them with any regular email client.
 
 ![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
