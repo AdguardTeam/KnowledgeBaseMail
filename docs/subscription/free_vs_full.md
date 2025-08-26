@@ -49,7 +49,7 @@ More domain options mean less risk of being rejected by services. If an alias is
 
 ### Temp mail
 
-The full version lets you choose a domain for your temporary email addresses, and you can have up to five inboxes at the same time.
+The full version lets you choose a domain for your temporary email addresses. You can have up to five inboxes at the same time.
 
 ## How to upgrade
 
