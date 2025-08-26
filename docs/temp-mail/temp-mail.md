@@ -1,5 +1,5 @@
 ---
-title: Temp Mail
+title: Temp mail
 sidebar_position: 1
 ---
 
@@ -9,15 +9,15 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 :::
 
-To create a temporary email address, go to the *Temp Mail* section in the side menu and click *Create*. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
+To create a temporary email address, go to the *Temp mail* section in the side menu and click *Create*. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
 
 ![Create an address *mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
 
 You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
 
-The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/en/license.html).
+The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/license.html).
 
-More domain options mean a lower risk of rejection by services. If one of your Temp Mail addresses is not accepted, try using a different one with a different domain, and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
+More domain options mean a lower risk of rejection by services. If one of your temporary addresses isn’t accepted, try another domain and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
 ## Changing address
 
@@ -43,13 +43,13 @@ To change the inbox address, click the menu in the upper right corner and select
 
 ## Replying and forwarding
 
-Temp Mail is designed for receiving emails. You can’t reply directly, and temporary addresses don’t forward messages by default. However, you can manually forward received emails to one of your confirmed recipients. Alternatively, you can download them in EML format and send them with any regular email client.
+Temp mail is designed for receiving emails. You can’t reply directly, and temporary addresses don’t forward messages by default. However, you can manually forward received emails to one of your confirmed recipients. Alternatively, you can download them in EML format and send them with any regular email client.
 
 ![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
 ## Attachments
 
-Temp Mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
+Temp mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
 
 ![Undelivered attachments *border](https://cdn.adtidy.org/content/kb/mail/new/attachments_undelivered.png)
 
