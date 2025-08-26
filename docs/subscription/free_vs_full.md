@@ -47,7 +47,7 @@ With the free version of the app, you can use one alias domain. The full version
 
 More domain options mean less risk of being rejected by services. If an alias is not accepted, you can use an alias with a different domain.
 
-### Temp Mail
+### Temp mail
 
 The full version lets you choose a domain for your temporary email addresses, and you can have up to five inboxes at the same time.
 
