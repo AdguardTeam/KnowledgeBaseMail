@@ -13,7 +13,7 @@ AdGuard Mail is available in two versions: a free version with limited functiona
 | **Anonymous replies**  | - | 300/day |
 | **Alias domains**  | 1  | 3  |
 | **Temp mail domains**  | 1  | 3  |
-| **Temp Mail inboxes**  | 1  | 5  |
+| **Temp mail inboxes**  | 1  | 5  |
 
 ## Benefits of advanced features
 
