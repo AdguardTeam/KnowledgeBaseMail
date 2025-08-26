@@ -25,9 +25,9 @@ You can change your address by clicking the *dice* icon. The old one will be del
 
 ## Number of inboxes
 
-In the free version, you can only have 1 inbox.
+In the free version, you can only have one inbox.
 
-The full version allows you to create up to 5 inboxes. Click the arrow next to your current inbox and select *Create new inbox*. From that menu, you can also switch between inboxes.
+The full version allows you to create up to five inboxes. Click the arrow next to your current inbox and select *Create new inbox*. From that menu, you can also switch between inboxes.
 
 To change the inbox address, click the menu in the upper right corner and select *Get new address*.
 
