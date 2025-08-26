@@ -31,6 +31,8 @@ The full version allows you to create up to five inboxes. Click the arrow next 
 
 To change the inbox address, click the menu in the upper right corner and select *Get new address*.
 
+![Create another address *mobile](https://cdn.adtidy.org/content/kb/mail/new/creating_another_temp_mail.png)
+
 ## Inbox and email size
 
 **Email size:** Temp Mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp Mail, we’ll send a notification to the email associated with your account.
