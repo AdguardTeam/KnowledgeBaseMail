@@ -1,5 +1,5 @@
 ---
-title: Temp mail
+title: Temp Mail
 sidebar_position: 1
 ---
 
