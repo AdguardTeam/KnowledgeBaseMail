@@ -1,5 +1,5 @@
 ---
-title: Temp Mail
+title: Temp mail
 sidebar_position: 1
 ---
 
@@ -9,9 +9,15 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 :::
 
-To create a temporary email address, go to the _Temp Mail_ section in the side menu and click _Create_. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
+To create a temporary email address, go to the _Temp mail_ section in the side menu and click _Create_. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
 
-![Create an address \*border](https://cdn.adtidy.org/content/kb/mail/create_tempmail.png)
+![Create an address \*mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
+
+You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
+
+The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/license.html).
+
+More domain options mean a lower risk of rejection by services. If one of your temporary addresses isn’t accepted, try another domain and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
 ## Changing address
 
@@ -19,29 +25,35 @@ You can change your address by clicking the _dice_ icon. The old one will be del
 
 ## Number of inboxes
 
-AdGuard Mail allows using only one temporary email address at a time. Creating a new one will replace the existing address.
+In the free version, you can only have one inbox.
+
+The full version allows you to create up to five inboxes. Click the arrow next to your current inbox and select _Create new inbox_. From that menu, you can also switch between inboxes.
+
+To change the inbox address, click the menu in the upper right corner and select _Get new address_.
+
+![Create another address \*mobile](https://cdn.adtidy.org/content/kb/mail/new/creating_another_temp_mail.png)
 
 ## Inbox and email size
 
-**Email size:** Temp Mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp Mail, we’ll send a notification to the email associated with your account.
+**Email size:** Temp mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp mail, we’ll send a notification to the email associated with your account.
 
-![Notification \*border](https://cdn.adtidy.org/content/kb/mail/email_too_big.png)
+![Notification \*border](https://cdn.adtidy.org/content/kb/mail/new/large_email.png)
 
 **Inbox capacity:** Your temporary inbox can hold up to 100 MB — it takes about 1,000 emails to reach this limit. Once this limit is reached, you won’t be able to receive new emails. We’ll notify you as you approach this limit so you can take action — either delete emails you don’t need or just create a new temporary address.
 
-![Inbox limit \*border](https://cdn.adtidy.org/content/kb/mail/too_many_emails.png)
+![Inbox limit \*border](https://cdn.adtidy.org/content/kb/mail/new/storage_left.png)
 
 ## Replying and forwarding
 
-Temp Mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp Mail, you can download them in EML format and send them using a regular email client.
+Temp mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp mail, you can download them in EML format and send them using a regular email client.
 
-![Download EML \*border](https://cdn.adtidy.org/content/kb/mail/download.png)
+![Download EML \*border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
 ## Attachments
 
-Temp Mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
+Temp mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
 
-![Undelivered attachments \*border](https://cdn.adtidy.org/content/kb/mail/undelivered_attachments.png)
+![Undelivered attachments \*border](https://cdn.adtidy.org/content/kb/mail/new/attachments_undelivered.png)
 
 :::important
 
