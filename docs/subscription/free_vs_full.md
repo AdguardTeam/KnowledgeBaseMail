@@ -12,6 +12,8 @@ AdGuard Mail is available in two versions: a free version with limited functiona
 | **Forwarded emails**  | 2,000/month  | Unlimited |
 | **Anonymous replies**  | - | 300/day |
 | **Alias domains**  | 1  | 3  |
+| **Temp mail domains**  | 1  | 3  |
+| **Temp mail inboxes**  | 1  | 5  |
 
 ## Benefits of advanced features
 
@@ -44,6 +46,10 @@ An alias domain is the part of an alias address that comes after the @ symbol.
 With the free version of the app, you can use one alias domain. The full version unlocks access to more domains.
 
 More domain options mean less risk of being rejected by services. If an alias is not accepted, you can use an alias with a different domain.
+
+### Temp mail
+
+The full version lets you choose a domain for your temporary email addresses. You can also have up to five inboxes at the same time.
 
 ## How to upgrade
 

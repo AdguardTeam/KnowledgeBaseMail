@@ -13,13 +13,25 @@ To create a temporary email address, go to the *Temp mail* section in the side m
 
 ![Create an address *mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
 
+You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
+
+The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/license.html).
+
+More domain options mean a lower risk of rejection by services. If one of your temporary addresses isn’t accepted, try another domain and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
+
 ## Changing address
 
 You can change your address by clicking the *dice* icon. The old one will be deleted along with its inbox. Note that you won’t be able to recover it.
 
 ## Number of inboxes
 
-AdGuard Mail allows using only one temporary email address at a time. Creating a new one will replace the existing address.
+In the free version, you can only have one inbox.
+
+The full version allows you to create up to five inboxes. Click the arrow next to your current inbox and select *Create new inbox*. From that menu, you can also switch between inboxes.
+
+To change the inbox address, click the menu in the upper right corner and select *Get new address*.
+
+![Create another address *mobile](https://cdn.adtidy.org/content/kb/mail/new/creating_another_temp_mail.png)
 
 ## Inbox and email size
 
