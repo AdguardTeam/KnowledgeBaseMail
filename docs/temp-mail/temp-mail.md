@@ -1,5 +1,5 @@
 ---
-title: Temp Mail
+title: Temp mail
 sidebar_position: 1
 ---
 
@@ -35,7 +35,7 @@ To change the inbox address, click the menu in the upper right corner and select
 
 ## Inbox and email size
 
-**Email size:** Temp Mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp Mail, we’ll send a notification to the email associated with your account.
+**Email size:** Temp mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp mail, we’ll send a notification to the email associated with your account.
 
 ![Notification *border](https://cdn.adtidy.org/content/kb/mail/new/large_email.png)
 
@@ -45,7 +45,7 @@ To change the inbox address, click the menu in the upper right corner and select
 
 ## Replying and forwarding
 
-Temp mail is designed for receiving emails. You can’t reply directly, and temporary addresses don’t forward messages by default. However, you can manually forward received emails to one of your confirmed recipients. Alternatively, you can download them in EML format and send them with any regular email client.
+Temp mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp mail, you can download them in EML format and send them using a regular email client.
 
 ![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 

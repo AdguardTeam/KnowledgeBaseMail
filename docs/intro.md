@@ -62,13 +62,13 @@ Done! Now you can use the created alias when signing up for services or sharing 
 
 [Detailed instructions on how to get started with aliases](/aliases/getting-started.md).
 
-## Temp Mail
+## Temp mail
 
-Temp Mail is a feature that generates temporary email addresses designed for short-term use. They also let you provide an email address without the need to reveal your primary one, but unlike aliases, you get the inbox right inside AdGuard Mail.​
+Temp mail is a feature that generates temporary email addresses designed for short-term use. They also let you provide an email address without the need to reveal your primary one, but unlike aliases, you get the inbox right inside AdGuard Mail.​
 
-![Temp Mail in AdGuard Mail](https://cdn.adtidy.org/content/kb/mail/create_tempmail.png)
+![Temp mail in AdGuard Mail](https://cdn.adtidy.org/content/kb/mail/create_tempmail.png)
 
-### Benefits of AdGuard Mail’s Temp Mail feature
+### Benefits of AdGuard Mail’s Temp mail feature
 
 - Instant use: Generate a temporary email address with one click and receive emails — all inside your AdGuard Mail.​
 
@@ -76,13 +76,13 @@ Temp Mail is a feature that generates temporary email addresses designed for sho
 
 - Universal access: Your temporary address’s inbox is stored in your account — you can access it on any device just by logging in to AdGuard Mail.​
 
-### How Temp Mail works
+### How Temp mail works
 
-Generate a temporary email address in AdGuard Mail, copy it, and use it anywhere you want online. All the emails sent to this address will be delivered to your Temp Mail inbox.
+Generate a temporary email address in AdGuard Mail, copy it, and use it anywhere you want online. All the emails sent to this address will be delivered to your Temp mail inbox.
 
-![How Temp Mail works](https://cdn.adtidy.org/content/kb/mail/how-temp-mail-works.png)
+![How Temp mail works](https://cdn.adtidy.org/content/kb/mail/how-temp-mail-works.png)
 
-## Aliases vs Temp Mail: When to use each one
+## Aliases vs Temp mail: When to use each one
 
 When deciding whether to use an alias or a temporary email address, consider:
 
@@ -94,11 +94,11 @@ Using both features for different purposes lets you make the best of this functi
 
 Here’s a comparison of the two features:
 
-| **Feature** | **Aliases** | **Temp Mail** |
+| **Feature** | **Aliases** | **Temp mail** |
 |-----------------|---------------------------------|------------------------------------------|
 | **Purpose**  | Long-term engagements requiring ongoing email communication  | One-time use or short-term interactions |
 | **Privacy level**  | High – conceals your primary email address; forwards emails to primary email’s inbox | Very high – a unique email address that has a dedicated inbox inside AdGuard Mail so emails don’t appear in your primary inbox |
 | **Control**  |  Can be disabled or deleted if compromised | Can be instantly deleted permanently along with all inbox data |
 | **Use cases**  |  Subscriptions, newsletters, online shopping, professional communications | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons |
-| **Attachment support** | Supports forwarding emails with attachments to your personal inbox | Does not support attachments; attachments are removed before email is delivered to Temp Mail inbox |
+| **Attachment support** | Supports forwarding emails with attachments to your personal inbox | Does not support attachments; attachments are removed before email is delivered to Temp mail inbox |
 | **Number of addresses**  |  10 at a time | 1 at a time (can be regenerated unlimited amount of times) |
