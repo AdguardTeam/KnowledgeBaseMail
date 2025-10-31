@@ -37,23 +37,23 @@ To change the inbox address, click the menu in the upper right corner and select
 
 **Email size:** Temp mail can accept messages up to 2 MB in size. Since most emails are between 10 KB and 100 KB, this should cover regular use. If an email is too large for Temp mail, we’ll send a notification to the email associated with your account.
 
-![Notification *border](https://cdn.adtidy.org/content/kb/mail/new/large_email.png)
+![Notification *mobile](https://cdn.adtidy.org/content/kb/mail/new/large_email.png)
 
 **Inbox capacity:** Your temporary inbox can hold up to 100 MB — it takes about 1,000 emails to reach this limit. Once this limit is reached, you won’t be able to receive new emails. We’ll notify you as you approach this limit so you can take action — either delete emails you don’t need or just create a new temporary address.
 
-![Inbox limit *border](https://cdn.adtidy.org/content/kb/mail/new/storage_left.png)
+![Inbox limit *mobile](https://cdn.adtidy.org/content/kb/mail/new/storage_left.png)
 
 ## Replying and forwarding
 
 Temp mail is designed for receiving emails only. While you can’t reply to or forward emails directly from Temp mail, you can download them in EML format and send them using a regular email client.
 
-![Download EML *border](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
+![Download EML *mobile](https://cdn.adtidy.org/content/kb/mail/new/download_eml.png)
 
 ## Attachments
 
 Temp mail does not support attachments. If an incoming email contains attachments, AdGuard Mail will remove them, and you’ll receive a notification indicating what has been removed.
 
-![Undelivered attachments *border](https://cdn.adtidy.org/content/kb/mail/new/attachments_undelivered.png)
+![Undelivered attachments *mobile](https://cdn.adtidy.org/content/kb/mail/new/attachments_undelivered.png)
 
 :::important
 
