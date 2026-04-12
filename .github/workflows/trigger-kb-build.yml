@@ -2,8 +2,7 @@ name: Trigger KB Wrapper Build
 
 on:
   push:
-    branches:
-      - master
+    branches: [master]
 
 jobs:
   trigger-build:
