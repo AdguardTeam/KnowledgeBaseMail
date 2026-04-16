@@ -18,5 +18,9 @@
   "copyright": {
     "message": "© 2009–2025 Adguard Software Ltd.",
     "description": "The footer copyright"
+  },
+  "logo.alt": {
+    "message": "AdGuard Mail",
+    "description": "The alt text of footer logo"
   }
 }
