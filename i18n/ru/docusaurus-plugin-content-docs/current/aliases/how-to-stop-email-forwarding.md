@@ -17,11 +17,11 @@ To disable an alias:
 
 1. Go to _Aliases_, find the needed alias, click its settings ⚙️ icon, then open the three-dot menu in the upper right corner.
 
-    ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
+   ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
 
 2. Click _Disable_ in the menu.
 
-    ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/disable_alias.png)
+   ![Alias three-dot menu](https://cdn.adtidy.org/content/kb/mail/disable_alias.png)
 
 ## Delete an alias
 
@@ -31,7 +31,7 @@ To delete an alias:
 
 1. Go to _Aliases_, find the needed alias, click its settings icon ⚙️, then open the three-dot menu in the upper right corner:
 
-    ![Alias three-dot menu \*border](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
+   ![Alias three-dot menu \*border](https://cdn.adtidy.org/content/kb/mail/alias-disable.png)
 
 2. Click _Delete_.
 

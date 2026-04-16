@@ -5,11 +5,11 @@
   },
   "sidebar.tutorialSidebar.category.Miscellaneous": {
     "message": "Sonstiges",
-    "description": "The label for category Miscellaneous in sidebar tutorialSidebar"
+    "description": "The label for category 'Miscellaneous' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Aliases": {
     "message": "Aliases",
-    "description": "The label for category Aliases in sidebar tutorialSidebar"
+    "description": "The label for category 'Aliases' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Temp Mail": {
     "message": "Temp Mail",
@@ -17,14 +17,14 @@
   },
   "sidebar.tutorialSidebar.category.Solving problems": {
     "message": "Solving problems",
-    "description": "The label for category Solving problems in sidebar tutorialSidebar"
+    "description": "The label for category 'Solving problems' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Temp mail": {
     "message": "Temp mail",
-    "description": "The label for category Temp mail in sidebar tutorialSidebar"
+    "description": "The label for category 'Temp mail' in sidebar 'tutorialSidebar'"
   },
   "sidebar.tutorialSidebar.category.Subscription": {
     "message": "Subscription",
-    "description": "The label for category Subscription in sidebar tutorialSidebar"
+    "description": "The label for category 'Subscription' in sidebar 'tutorialSidebar'"
   }
 }

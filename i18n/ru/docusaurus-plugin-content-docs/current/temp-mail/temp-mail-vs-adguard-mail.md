@@ -13,7 +13,7 @@ Both services are suitable for one-time tasks like activating a free trial or ge
 
 | **Feature**      | **AdGuard Temp Mail**              | **Temp mail in AdGuard Mail**   |
 | ---------------- | ---------------------------------- | ------------------------------- |
-| **Lifetime**     | 7 days after closing the page      | No limit                        |
+| **Lifetime**     | 7 дней после закрытия страницы     | No limit                        |
 | **Availability** | Only on the webpage you open it on | Web version, mobile and desktop |
 | **Registration** | Not required                       | Account required                |
 

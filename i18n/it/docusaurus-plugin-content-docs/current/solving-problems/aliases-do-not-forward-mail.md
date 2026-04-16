@@ -7,7 +7,7 @@ Here is how you can check if an alias doesn’t forward emails:
 
 1. Go to the _Statistics_ section and note the number of forwarded emails.
 
-    ![Statistics \*mobile](https://cdn.adtidy.org/content/kb/mail/new/stats.png)
+   ![Statistics \*mobile](https://cdn.adtidy.org/content/kb/mail/new/stats.png)
 
 2. Send a test email to your alias.
 
