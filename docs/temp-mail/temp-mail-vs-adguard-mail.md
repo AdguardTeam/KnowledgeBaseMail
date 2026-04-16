@@ -11,11 +11,11 @@ AdGuard offers two temporary email services:
 
 Both services are suitable for one-time tasks like activating a free trial or getting promo codes. Here’s a comparison to help you choose the one that best fits your needs.
 
-| **Feature** | **AdGuard Temp Mail** | **Temp mail in AdGuard Mail** |
-|-----------------|---------------------------------|------------------------------------------|
-| **Lifetime**  | 7 days after closing the page | No limit |
-| **Availability**  | Only on the webpage you open it on | Web version, mobile and desktop  |
-| **Registration**  |  Not required | Account required |
+| **Feature**      | **AdGuard Temp Mail**              | **Temp mail in AdGuard Mail**   |
+|------------------|------------------------------------|---------------------------------|
+| **Lifetime**     | 7 days after closing the page      | No limit                        |
+| **Availability** | Only on the webpage you open it on | Web version, mobile and desktop |
+| **Registration** | Not required                       | Account required                |
 
 ## Lifetime of addresses
 

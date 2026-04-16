@@ -94,11 +94,11 @@ Using both features for different purposes lets you make the best of this functi
 
 Here’s a comparison of the two features:
 
-| **Feature** | **Aliases** | **Temp mail** |
-|-----------------|---------------------------------|------------------------------------------|
-| **Purpose**  | Long-term engagements requiring ongoing email communication  | One-time use or short-term interactions |
-| **Privacy level**  | High – conceals your primary email address; forwards emails to primary email’s inbox | Very high – a unique email address that has a dedicated inbox inside AdGuard Mail so emails don’t appear in your primary inbox |
-| **Control**  |  Can be disabled or deleted if compromised | Can be instantly deleted permanently along with all inbox data |
-| **Use cases**  |  Subscriptions, newsletters, online shopping, professional communications | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons |
-| **Attachment support** | Supports forwarding emails with attachments to your personal inbox | Does not support attachments; attachments are removed before email is delivered to Temp mail inbox |
-| **Number of addresses**  |  10 at a time | 1 at a time (can be regenerated unlimited amount of times) |
+| **Feature**             | **Aliases**                                                                          | **Temp mail**                                                                                                                  |
+|-------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| **Purpose**             | Long-term engagements requiring ongoing email communication                          | One-time use or short-term interactions                                                                                        |
+| **Privacy level**       | High – conceals your primary email address; forwards emails to primary email’s inbox | Very high – a unique email address that has a dedicated inbox inside AdGuard Mail so emails don’t appear in your primary inbox |
+| **Control**             | Can be disabled or deleted if compromised                                            | Can be instantly deleted permanently along with all inbox data                                                                 |
+| **Use cases**           | Subscriptions, newsletters, online shopping, professional communications             | Accessing free trials, passing email verifications, downloading resources, getting promotional coupons                         |
+| **Attachment support**  | Supports forwarding emails with attachments to your personal inbox                   | Does not support attachments; attachments are removed before email is delivered to Temp mail inbox                             |
+| **Number of addresses** | 10 at a time                                                                         | 1 at a time (can be regenerated unlimited amount of times)                                                                     |

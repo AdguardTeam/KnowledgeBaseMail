@@ -15,10 +15,10 @@ Domain is the part of an alias address that comes after the @ symbol.
 
 - Consider upgrading to a [full version](https://adguard-mail.com/license.html) for more domains — the full version offers **3 alias domains**.
 
-- The problem also might be in **subaddressing** — a special tag used to filter emails in the mailbox. An email with subaddressing looks like this: <alias+tag@adguardmail.com>, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
+- The problem also might be in **subaddressing** — a special tag used to filter emails in the mailbox. An email with subaddressing looks like this: `alias+tag@adguardmail.com`, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
 
-If the problem persists, please contact our support team via _Report a bug_ or at <support@adguard-mail.com>.
+If the problem persists, please contact our support team via _Report a bug_ or at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
 ## If a temporary address is not accepted
 
-Let our support team know via _Report a bug_ or at <support@adguard-mail.com>. We will look into the issue and update the domain if necessary.
+Let our support team know via _Report a bug_ or at [support@adguard-mail.com](mailto:support@adguard-mail.com). We will look into the issue and update the domain if necessary.
