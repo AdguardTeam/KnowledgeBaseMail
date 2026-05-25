@@ -15,13 +15,13 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 1. Click *Aliases* in the side menu.
 1. Click *Create* or *+*.
 
-    ![Create an alias](https://cdn.adtidy.org/content/kb/mail/first-alias-create.png)
+    ![Create an alias *border](https://cdn.adtidy.org/content/kb/mail/alias-create1.jpeg)
 
-    ![Add an alias](https://cdn.adtidy.org/content/kb/mail/aliases-create.png)
+    ![Add an alias *border](https://cdn.adtidy.org/content/kb/mail/alias-create3.jpeg)
 
 1. Click the dice icon if you want to regenerate the alias.
 
-    ![Shuffle an alias](https://cdn.adtidy.org/content/kb/mail/alias-shuffle.png)
+    ![Shuffle an alias *border](https://cdn.adtidy.org/content/kb/mail/alias-create2.jpeg)
 
 1. Assign a name and description to the alias to make identification inside AdGuard Mail easier (optional).
 
