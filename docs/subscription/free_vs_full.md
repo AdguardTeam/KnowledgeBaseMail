@@ -11,8 +11,8 @@ AdGuard Mail is available in two versions: a free version with limited functiona
 | **Recipients**        | 1                | 50               |
 | **Forwarded emails**  | 2,000/month      | Unlimited        |
 | **Anonymous replies** | -                | 300/day          |
-| **Alias domains**     | 1                | 3                |
-| **Temp mail domains** | 1                | 3                |
+| **Alias domains**     | 1                | Multiple         |
+| **Temp mail domains** | 1                | Multiple         |
 | **Temp mail inboxes** | 1                | 5                |
 
 ## Benefits of advanced features
