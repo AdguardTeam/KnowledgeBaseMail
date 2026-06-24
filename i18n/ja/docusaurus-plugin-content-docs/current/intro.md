@@ -66,7 +66,7 @@ Done! Now you can use the created alias when signing up for services or sharing 
 
 Temp mail is a feature that generates temporary email addresses designed for short-term use. They also let you provide an email address without the need to reveal your primary one, but unlike aliases, you get the inbox right inside AdGuard Mail.​
 
-![Temp mail in AdGuard Mail](https://cdn.adtidy.org/content/kb/mail/create_tempmail.png)
+![Temp mail in AdGuard Mail \*border](https://cdn.adtidy.org/content/kb/mail/welcome-temp-mail.jpeg)
 
 ### Benefits of AdGuard Mail’s Temp mail feature
 

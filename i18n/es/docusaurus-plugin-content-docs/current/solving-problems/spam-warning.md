@@ -31,7 +31,7 @@ If you think you’re getting spam, use the _Block this sender_ option in the em
 
 Alternatively, you can disable the alias. Emails from this alias won’t be forwarded.
 
-![Disable an alias \*border](https://cdn.adtidy.org/content/kb/mail/new/edit_alias.png)
+![Disable an alias \*border](https://cdn.adtidy.org/content/kb/mail/alias-disable.jpeg)
 
 :::important
 
