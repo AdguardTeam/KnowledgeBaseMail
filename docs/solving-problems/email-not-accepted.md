@@ -17,10 +17,9 @@ Domain is the part of an alias address that comes after the @ symbol.
 
 - The problem also might be in **subaddressing** — a special tag used to filter emails in the mailbox. An email with subaddressing looks like this: `alias+tag@adguardmail.com`, and some websites might not accept the domains with a **+**. If you are using an alias with subaddressing, try one without it.
 
-
 If the problem persists, let us know about your alias issue directly from the app (see below) or by contacting support.
 
-## How to report alias or temporary address issues 
+## How to report alias or temporary address issues
 
 You can report an issue with your alias or temporary address without leaving the app.
 
