@@ -56,11 +56,11 @@ jobs:
 
       - name: Upload build artifact
         if: github.event.pull_request.head.repo.fork == false
-uses: actions/upload-artifact@v4
-with:
-  name: site
-  path: build/
-  include-hidden-files: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: build/
+          include-hidden-files: true
 
   deploy:
     needs: build
