@@ -9,13 +9,19 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 :::
 
-To create a temporary email address, go to the *Temp mail* section in the side menu and click *Create*. A temporary address will be generated. There’s no time limit on this address; keep it as long as you like.
+To get a temporary email address, sign in to your account or continue as a guest. Just choose the corresponding option on the login page.
 
-![Create an address *mobile](https://cdn.adtidy.org/content/kb/mail/new/create_temp_mail.png)
+![Guest mode login](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/login_guest_en.png)
 
-You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
+To create a temporary email address, simply open AdGuard Mail and go to the *Temp mail* section in the side menu. **You’ll automatically get one free temporary email address**, ready to use right away — no need to create one manually. If you want another address, click *Create*. A new temporary address will be generated.
 
-The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/license.html).
+![Guest mode](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/guest_temp_en.png)
+
+In guest mode, addresses remain active for up to 7 days after your last interaction with AdGuard Mail. The overall lifetime of a guest mailbox is limited to 6 months. Once the address expires, you can simply get a new one. If you are using the web version, addresses remain accessible as long as your browser session data is preserved. If you clear your cookies or switch browsers, you may lose access to it.
+
+You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
+
+The free version of the app only allows you to use the default Temp mail domains. To unlock more domains, get the [full version](https://adguard-mail.com/license.html).
 
 More domain options mean a lower risk of rejection by services. If one of your temporary addresses isn’t accepted, try another domain and report the issue to us at [support@adguard-mail.com](mailto:support@adguard-mail.com).
 
