@@ -13,7 +13,9 @@ To get a temporary email address, sign in to your account or continue as a guest
 
 ![Guest mode login](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/login_guest_en.png)
 
-To create a temporary email address, simply open AdGuard Mail and go to the *Temp mail* section in the side menu. **You’ll automatically get one free temporary email address**, ready to use right away — no need to create one manually. If you want another address, click *Create*. A new temporary address will be generated.
+To get a temporary email address, open AdGuard Mail and go to the *Temp mail* section in the side menu. Click *Create*, and your first free temporary email address will be generated automatically — no need to choose a username or domain.
+
+If you want a different address, click *Get new address* and choose the username and domain you prefer.
 
 ![Guest mode](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/guest_temp_en.png)
 
