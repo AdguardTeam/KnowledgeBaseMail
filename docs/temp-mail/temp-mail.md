@@ -9,17 +9,17 @@ This article is about AdGuard Mail, a privacy-focused email management tool. To 
 
 :::
 
-To get a temporary email address, sign in to your account or continue as a guest. Just choose the corresponding option on the login page.
+To get a temporary email address, open AdGuard Mail and either sign in to your account by clicking *Log in or create account* or continue in guest mode by clicking *Continue without account*. Go to the *Temp mail* section in the side menu, then click *Create*. Your first free temporary email address will be generated automatically — no need to choose a username or domain.
 
-![Guest mode login](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/login_guest_en.png)
+![Choosing guest mode on the login page](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/login_guest_en.png)
 
-To get a temporary email address, open AdGuard Mail and go to the *Temp mail* section in the side menu. Click *Create*, and your first free temporary email address will be generated automatically — no need to choose a username or domain.
-
-If you want a different address, click *Get new address* and choose the username and domain you prefer.
+To get a different address, click *Get new address* and choose your preferred username and domain. Keep in mind that **this will permanently delete your current address and its inbox, and neither can be recovered**.
 
 ![Guest mode](https://cdn.adtidy.org/content/release_notes/mail/ag-mail-v-1-7/v1-7/guest_temp_en.png)
 
-In guest mode, addresses remain active for up to 7 days after your last interaction with AdGuard Mail. The overall lifetime of a guest mailbox is limited to 6 months. Once the address expires, you can simply get a new one. If you are using the web version, addresses remain accessible as long as your browser session data is preserved. If you clear your cookies or switch browsers, you may lose access to it.
+In guest mode, your temporary email address stays active for up to 7 days after your last interaction with AdGuard Mail, but a guest mailbox can exist for no longer than 6 months in total. Once you log in, your address has no expiration date — keep it for as long as you like.
+
+Keep in mind that your guest mailbox is tied to your browser. In the web version, you can access it as long as your browser data is preserved. If you clear your cookies or switch to another browser, you may lose access to the mailbox. Once your address expires, you can simply create a new one.
 
 You can choose a domain for your temporary email address when you create a new inbox or generate a new address. You cannot change the domain of an existing address.
 
@@ -73,4 +73,4 @@ If you’re expecting emails with attachments, use an alias instead — aliases 
 
 If you no longer need your temporary email address, you can delete it by clicking the *dice* icon. The address will also be deleted if you delete your AdGuard account.
 
-Keep in mind that **once deleted, the address and its inbox cannot be recovered**. Be sure to check your temporary inbox for important messages before you click the *dice* icon.
+**Once deleted, the address and its inbox cannot be recovered**. Be sure to check your temporary inbox for important messages before you click the *dice* icon.
